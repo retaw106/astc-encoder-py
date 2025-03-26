@@ -1,4 +1,3 @@
 [submodule "astc-encoder"]
 	path = src/astc-encoder
-	url = https://github.com/ARM-software/astc-encoder.git
-	shallow = true
+	url = git@github.com:retaw106/astc-encoder.git
